@@ -1,0 +1,47 @@
+\documentclass{ctexart}
+\usepackage{cleveref}
+\usepackage{mwe}
+
+\crefname{equation}{式}{式}
+\crefname{figure}{图}{图}
+\crefname{table}{表}{表}
+\crefname{appendix}{附录}{附录}
+\newcommand{\crefpairconjunction}{~和~}
+\newcommand{\crefmiddleconjunction}{、}
+\newcommand{\creflastconjunction}{~和~}
+\newcommand{\crefpairgroupconjunction}{~和~}
+\newcommand{\crefmiddlegroupconjunction}{、}
+\newcommand{\creflastgroupconjunction}{~和~}
+\newcommand{\crefrangeconjunction}{～}
+\begin{document}
+\begin{figure}
+	\centering
+	\includegraphics[width=.9\linewidth]{example-image-a.pdf}
+	\caption{示意图}\label{circuit-diagram}
+\end{figure}
+这就改好了：\cref{circuit-diagram}
+
+\begin{figure}
+\rule{2cm}{3cm}
+\caption{图图}\label{fig1}
+\end{figure}
+\begin{figure}
+\rule{2cm}{3cm}
+\caption{图图}\label{fig2}
+\end{figure}
+\begin{figure}
+\rule{2cm}{3cm}
+\caption{图图}\label{fig3}
+\end{figure}
+\begin{figure}
+\rule{2cm}{3cm}
+\caption{图图}\label{fig4}
+\end{figure}
+\begin{figure}
+\rule{2cm}{3cm}
+\caption{图图}\label{fig5}
+\end{figure}
+\cref{fig1,fig2,fig3,fig5}
+\cref{fig1,fig3,fig5}
+\cref{fig1,fig3,fig4,fig5}
+\end{document}

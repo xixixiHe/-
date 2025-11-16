@@ -1,0 +1,57 @@
+\thispagestyle {empty}
+\contentsline {chapter}{\bf 摘要}{I}{chapter*.1}%
+\contentsline {chapter}{\bf ABSTRACT（英文摘要）}{II}{chapter*.1}%
+\contentsline {chapter}{\numberline {第一章\hspace {.3em}}引言}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}研究背景}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}研究框架}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3}创新点}{2}{section.1.3}%
+\contentsline {chapter}{\numberline {第二章\hspace {.3em}}数据与方法概述}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}数据来源与变量说明}{3}{section.2.1}%
+\contentsline {section}{\numberline {2.2}数据预处理}{3}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}子节标题}{4}{subsection.2.2.1}%
+\contentsline {subsubsection}{子子节标题}{4}{subsubsection*.3}%
+\contentsline {paragraph}{段标题}{4}{paragraph*.4}%
+\contentsline {section}{\numberline {2.3}统计推断与结构发现}{4}{section.2.3}%
+\contentsline {chapter}{\numberline {第三章\hspace {.3em}}特征工程与监督学习实验设计}{5}{chapter.3}%
+\contentsline {section}{\numberline {3.1}A/B 特征工程：Full-8D vs PCA-2D}{5}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}字数要求}{5}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}封面要求}{5}{subsection.3.1.2}%
+\contentsline {subsubsection}{要求1}{5}{subsubsection*.5}%
+\contentsline {subsubsection}{要求2}{5}{subsubsection*.6}%
+\contentsline {subsection}{\numberline {3.1.3}开题报告要求}{5}{subsection.3.1.3}%
+\contentsline {section}{\numberline {3.2}监督学习实验设计}{6}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}有序列表}{6}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}无序列表}{6}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}公式}{6}{subsection.3.2.3}%
+\contentsline {subsubsection}{单行公式}{6}{subsubsection*.7}%
+\contentsline {subsubsection}{多行公式}{7}{subsubsection*.8}%
+\contentsline {subsection}{\numberline {3.2.4}align环境}{7}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}split环境（内嵌）}{8}{subsection.3.2.5}%
+\contentsline {subsection}{\numberline {3.2.6}带大括号的多行公式}{8}{subsection.3.2.6}%
+\contentsline {paragraph}{cases}{8}{paragraph*.9}%
+\contentsline {paragraph}{array}{8}{paragraph*.10}%
+\contentsline {paragraph}{aligned}{8}{paragraph*.11}%
+\contentsline {subsection}{\numberline {3.2.7}表格}{8}{subsection.3.2.7}%
+\contentsline {subsection}{\numberline {3.2.8}插图}{8}{subsection.3.2.8}%
+\contentsline {subsection}{\numberline {3.2.9}定理型环境示例}{10}{subsection.3.2.9}%
+\contentsline {subsection}{\numberline {3.2.10}脚注与引用}{11}{subsection.3.2.10}%
+\contentsline {subsubsection}{脚注}{11}{subsubsection*.16}%
+\contentsline {subsubsection}{定理类引用}{11}{subsubsection*.17}%
+\contentsline {subsubsection}{文献引用的演示}{11}{subsubsection*.18}%
+\contentsline {chapter}{\numberline {第四章\hspace {.3em}}监督学习模型训练与评估}{13}{chapter.4}%
+\contentsline {chapter}{\numberline {第五章\hspace {.3em}}潜变量建模分析}{14}{chapter.5}%
+\contentsline {chapter}{\numberline {第六章\hspace {.3em}}模型化聚类与无监督验证}{15}{chapter.6}%
+\contentsline {chapter}{\numberline {第七章\hspace {.3em}}总结与展望}{16}{chapter.7}%
+\contentsline {chapter}{参考文献}{16}{section*.19}%
+\contentsline {chapter}{\bf 成员分工与贡献}{17}{chapter*.20}%
+\global \c@tocdepth 1\relax 
+\contentsline {chapter}{\numberline {附录 A\hspace {.3em}}附录标题}{18}{appendix.A}%
+\contentsline {section}{\numberline {A.1}附录中的图形、表格、公式}{18}{section.A.1}%
+\contentsline {subsection}{\numberline {A.1.1}公式}{18}{subsection.A.1.1}%
+\contentsline {subsection}{\numberline {A.1.2}图形}{18}{subsection.A.1.2}%
+\contentsline {subsection}{\numberline {A.1.3}表格}{19}{subsection.A.1.3}%
+\contentsline {section}{\numberline {A.2}R代码}{19}{section.A.2}%
+\contentsline {subsection}{\numberline {A.2.1}使用listings}{19}{subsection.A.2.1}%
+\contentsline {section}{\numberline {A.3}Python代码}{19}{section.A.3}%
+\contentsline {subsection}{\numberline {A.3.1}使用listings}{19}{subsection.A.3.1}%
+\contentsline {subsection}{\numberline {A.3.2}使用pythonhighlight}{19}{subsection.A.3.2}%
