@@ -1,0 +1,26 @@
+{
+    "name": "LaTeX Development Environment",
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu-22.04",
+    
+    "features": {
+        "ghcr.io/devcontainers/features/texlive:1": {
+            "version": "latest"
+        }
+    },
+
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "james-yu.latex-workshop",
+                "valentjn.vscode-ltex"
+            ],
+            "settings": {
+                "latex-workshop.latex.recipe.default": "latexmk",
+                "latex-workshop.latex.outDir": "%DIR%/out",
+                "latex-workshop.view.pdf.viewer": "tab"
+            }
+        }
+    },
+
+    "postCreateCommand": "echo 'LaTeX environment ready!' && pdflatex --version"
+}
